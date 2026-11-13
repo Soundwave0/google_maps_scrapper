@@ -1,0 +1,86 @@
+{
+  "job": {
+    "name": "Texas Contractors - Big Cities",
+    "keywords": [
+      "roofing contractors in Houston TX",
+      "plumbers in Houston TX",
+      "electricians in Houston TX",
+      "HVAC contractors in Houston TX",
+      "general contractors in Houston TX",
+
+      "roofing contractors in San Antonio TX",
+      "plumbers in San Antonio TX",
+      "electricians in San Antonio TX",
+      "HVAC contractors in San Antonio TX",
+      "general contractors in San Antonio TX",
+
+      "roofing contractors in Dallas TX",
+      "plumbers in Dallas TX",
+      "electricians in Dallas TX",
+      "HVAC contractors in Dallas TX",
+      "general contractors in Dallas TX",
+
+      "roofing contractors in Fort Worth TX",
+      "plumbers in Fort Worth TX",
+      "electricians in Fort Worth TX",
+      "HVAC contractors in Fort Worth TX",
+      "general contractors in Fort Worth TX",
+
+      "roofing contractors in Austin TX",
+      "plumbers in Austin TX",
+      "electricians in Austin TX",
+      "HVAC contractors in Austin TX",
+      "general contractors in Austin TX",
+
+      "roofing contractors in El Paso TX",
+      "plumbers in El Paso TX",
+      "electricians in El Paso TX",
+      "HVAC contractors in El Paso TX",
+
+      "roofing contractors in Arlington TX",
+      "plumbers in Arlington TX",
+      "electricians in Arlington TX",
+
+      "roofing contractors in Corpus Christi TX",
+      "plumbers in Corpus Christi TX",
+
+      "roofing contractors in Plano TX",
+      "electricians in Plano TX",
+
+      "roofing contractors in Lubbock TX",
+      "plumbers in Lubbock TX"
+    ],
+    "lang": "en",
+    "zoom": 12,
+    "lat": "29.7604",
+    "lon": "-95.3698",
+    "depth": 5,
+    "email": true,
+    "max_time": 600,
+    "proxies": null
+  },
+  "city_coordinates_cheatsheet": {
+    "Houston, TX": ["29.7604", "-95.3698"],
+    "San Antonio, TX": ["29.4241", "-98.4936"],
+    "Dallas, TX": ["32.7767", "-96.7970"],
+    "Fort Worth, TX": ["32.7555", "-97.3308"],
+    "Austin, TX": ["30.2672", "-97.7431"],
+    "El Paso, TX": ["31.7619", "-106.4850"],
+    "Arlington, TX": ["32.7357", "-97.1081"],
+    "Corpus Christi, TX": ["27.8006", "-97.3964"],
+    "Plano, TX": ["33.0198", "-96.6989"],
+    "Laredo, TX": ["27.5306", "-99.4803"],
+    "Lubbock, TX": ["33.5779", "-101.8552"],
+    "Garland, TX": ["32.9126", "-96.6389"],
+    "Irving, TX": ["32.8140", "-96.9489"],
+    "Frisco, TX": ["33.1507", "-96.8236"],
+    "McKinney, TX": ["33.1972", "-96.6397"]
+  },
+  "keyword_ideas": [
+    "foundation repair in Houston TX",
+    "fence contractors in San Antonio TX",
+    "concrete contractors in Dallas TX",
+    "window replacement in Fort Worth TX",
+    "landscaping contractors in Austin TX"
+  ]
+}
